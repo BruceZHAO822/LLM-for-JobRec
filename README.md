@@ -1,4 +1,8 @@
 # LLM-for-JobRec
- This repository will provide papers about Job Recommendation and LLM
----
-## Baseline—Session-based Framework: BISTRO
+This repository will provide papers about Job Recommendation and LLM
+***
+## Content
+* [Baseline]
+
+***
+### Baseline—Session-based Framework: BISTRO
