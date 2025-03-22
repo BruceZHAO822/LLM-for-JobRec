@@ -1,15 +1,20 @@
-# Job Recommendation Literature Survey
+# LLM for Job Recommendation - Literature Survey
 
-结构化整理与职位推荐（Job Recommendation）和LLM应用相关的论文，支持研究中的文献综述工作。
+LLM和职位推荐（Job Recommendation）相关的论文
 
 ## 分类索引
+- [Baseline——Session-based Framework: BISTRO](#baseline-session-based-framework-bistro)
 - [LLM for Job Recommendation](#llm-for-job-recommendation)
 - [Job Recommendation Surveys](#job-recommendation-surveys)
 - [Traditional Methods](#traditional-methods)
 - [Graph-based Methods](#graph-based-methods)
 
 ---
-
+### Baseline Session-based Framework: BISTRO
+| # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
+|:---:	|---	|:---:	|:---:	|:---:	|:---:	|---	|---	|:---:	|
+| 1 	| Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning 	| Xiao Han et al. 	| City University of Hong Kong 	| 2024 	| KDD 	|  	|  	|  	|
+---
 ### LLM for Job Recommendation
 | #  | 论文标题 | 作者 | 年份 | 会议/期刊 | 主要贡献 | 链接 | 代码 |
 |----|----------|------|------|-----------|----------|------|------|
