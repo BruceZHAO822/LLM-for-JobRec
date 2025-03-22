@@ -32,6 +32,6 @@ LLM和职位推荐（Job Recommendation）相关的论文
 
 ---
 ### Classification of papers
-![1](https://github.com/BruceZHAO822/LLM-for-JobRec/raw/main/Classification of papers.png)
+![Showcase](Classification-of-papers.png)
 
 - `代码`：若论文未开源代码，标记为`-`
