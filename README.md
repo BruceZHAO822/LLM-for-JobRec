@@ -18,7 +18,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 2 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
-| 3 	| Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
+| 3 	| Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| AAAI 	| [GLRec](3_GLRec.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28769) | [Github](https://github.com/WLiK/GLRec) |
 | 4 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
 | 5 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
 | 6 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
