@@ -28,7 +28,8 @@ LLM和职位推荐（Job Recommendation）相关的论文
 
 ### Job Recommendation Surveys
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
-|:---:	|---	|:---:	|:---:	|:---:	|:---:	|---	|---	|:---:	|
+|:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+| 7 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
 
 ---
 ### Classification of papers
