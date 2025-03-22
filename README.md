@@ -30,7 +30,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 7 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
-| 8 	| A Survey on Skill Identification From Online Job Ads 	| IMANE KHAOUJA et al. 	| ENSIAS, Mohammed V University 	| 2021 	| IEEE Access 	| [Survey](8_Survey.md) | [DOI](10.1109/ACCESS.2021.3106120}) | - |
+| 8 	| A Survey on Skill Identification From Online Job Ads 	| IMANE KHAOUJA et al. 	| ENSIAS, Mohammed V University 	| 2021 	| IEEE Access 	| [Survey](8_Survey.md) | [DOI](https://ieeexplore.ieee.org/document/9517309) | - |
 | 9 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
 
 ---
