@@ -20,8 +20,8 @@ LLM和职位推荐（Job Recommendation）相关的论文
 | 2 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
 | 3 	| Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| AAAI 	| [GLRec](3_GLRec.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28769) | [Github](https://github.com/WLiK/GLRec) |
 | 4 	| Generative Job Recommendations with Large Language Model 	| Zhi Zheng et al. 	| Career Science Lab, BOSS Zhipin 	| 2023 	| Preprint 	| [GIRL](4_GIRL.md) | [arXiv](https://arxiv.org/abs/2307.02157) | - |
-| 5 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
-| 6 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
+| 5 	| HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation 	| Azmine Toushik Wasi 	| Shahjalal University of Science and Technology 	| 2024 	| ACL Workshop KaLLM 	| [HRGraph](5_HRGraph.md) | [DOI](https://doi.org/10.48550/arXiv.2408.13521) | [Github](https://github.com/azminewasi/HRGraph) |
+| 6 	| Leveraging LLM generated labels to reduce bad matches in job recommendations 	| Yingchi Pei et al. 	| Indeed 	| 2024 	| ACM RecSys 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
 
 ---
 
