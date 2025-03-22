@@ -2,7 +2,7 @@
 
 LLM和职位推荐（Job Recommendation）相关的论文
 
-## 分类索引
+## Index
 - [BSAELINE——Session-based Framework: BISTRO](#baseline-session-based-framework-bistro)
 - [LLM for Job Recommendation](#llm-for-job-recommendation)
 - [Job Recommendation Surveys](#job-recommendation-surveys)
