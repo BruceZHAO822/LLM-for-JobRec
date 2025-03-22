@@ -17,7 +17,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 ### LLM for Job Recommendation
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| 2 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [BISTRO](1_BISTRO.md) | [DOI](https://doi.org/10.1145/3637528.3671759) | [Github](https://github.com/Applied-Machine-Learning-Lab/BISTRO) |
+| 2 	| Enhancing Job Recommendation through LLM-Based Generative Adversarial Networks 	| Yingpeng Du et al. 	| Nanyang Technological University 	| 2024 	| AAAI 	| [LGIR](2_LGIR.md) | [DOI](https://doi.org/10.1609/aaai.v38i8.28678) | - |
 
 ---
 
