@@ -28,12 +28,12 @@ LLM和职位推荐（Job Recommendation）相关的论文
 ---
 
 ### Job Recommendation Surveys
-| # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
-|:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| 7 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
-| 8 	| A survey on large language models for recommendation 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| WWW 	| [Survey](8_Survey.md) | [DOI](https://doi.org/10.1007/s11280-024-01291-2) | [LLM4Rec](https://github.com/WLiK/LLM4Rec-Awesome-Papers) |
-| 9 	| A Survey on Skill Identification From Online Job Ads 	| IMANE KHAOUJA et al. 	| ENSIAS, Mohammed V University 	| 2021 	| IEEE Access 	| [Survey](9_Survey.md) | [DOI](https://ieeexplore.ieee.org/document/9517309) | - |
-| 10 	| Graph Neural Networks in Recommender Systems: A Survey 	| Wu et al. 	| Peking University 	| 2022 	| CSUR 	| [Survey](10_Survey.md) | [DOI](https://dl.acm.org/doi/10.1145/3535101) | [Github](https://github.com/wusw14/GNN-in-RS) |
+| # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|分析链接  |
+|:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+| 7 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - | - |
+| 8 	| A survey on large language models for recommendation 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| WWW 	| [Survey](8_Survey.md) | [DOI](https://doi.org/10.1007/s11280-024-01291-2) | [LLM4Rec](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | - |
+| 9 	| A Survey on Skill Identification From Online Job Ads 	| IMANE KHAOUJA et al. 	| ENSIAS, Mohammed V University 	| 2021 	| IEEE Access 	| [Survey](9_Survey.md) | [DOI](https://ieeexplore.ieee.org/document/9517309) | - | - |
+| 10 	| Graph Neural Networks in Recommender Systems: A Survey 	| Wu et al. 	| Peking University 	| 2022 	| CSUR 	| [Survey](10_Survey.md) | [DOI](https://dl.acm.org/doi/10.1145/3535101) | [Github](https://github.com/wusw14/GNN-in-RS) | [知乎](https://zhuanlan.zhihu.com/p/362853488) |
  
 ---
 
@@ -42,8 +42,8 @@ LLM和职位推荐（Job Recommendation）相关的论文
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 11 	| Content-based Recommender Systems: State of the Art and Trends 	| Lops et al. 	| University of Bari “Aldo Moro” 	| 2011 	| Recommender Systems Handbook (Book) 	| [Content-based](11_Content-based.md) | [DOI](https://doi.org/10.1007/978-0-387-85820-3_3) | - | - |
 | 12 	| Item-based collaborative filtering recommendation algorithms 	| Sarwar et al. 	| University of Minnesota 	| 2001 	| WWW 	| [CF](12_CF.md) | [DOI](https://dl.acm.org/doi/10.1145/371920.372071) | - | [CSDN](https://blog.csdn.net/han__xuefeng/article/details/106652266) |
-| 13 	| Matrix Factorization Techniques for Recommender Systems 	| Koren et al. 	| Yahoo Research 	| 2009 	| COMPUTER 	| [MF](13_MF.md) | [DOI](https://ieeexplore.ieee.org/abstract/document/5197422) | - | - |
-| 14 	| Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation 	| Xia et al. 	| The University of Queensland 	| 2021 	| AAAI 	| [DHCN](14_DHCN.md) | [DOI](https://ojs.aaai.org/index.php/AAAI/article/view/16578) | [Github](https://github.com/xiaxin1998/DHCN) | - |
+| 13 	| Matrix Factorization Techniques for Recommender Systems 	| Koren et al. 	| Yahoo Research 	| 2009 	| COMPUTER 	| [MF](13_MF.md) | [DOI](https://ieeexplore.ieee.org/abstract/document/5197422) | - | [知乎](https://zhuanlan.zhihu.com/p/28577447?from_voters_page=true) |
+| 14 	| Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation 	| Xia et al. 	| The University of Queensland 	| 2021 	| AAAI 	| [DHCN](14_DHCN.md) | [DOI](https://ojs.aaai.org/index.php/AAAI/article/view/16578) | [Github](https://github.com/xiaxin1998/DHCN) | [CSDN](https://blog.csdn.net/qq_39087432/article/details/120881848) |
 | 15 	| Unsupervised Learning by Probabilistic Latent Semantic Analysis 	| THOMAS HOFMANN 	| Brown University 	| 2001 	| Machine Learning	| [PLSA](15_PLSA.md) | [DOI](https://doi.org/10.1023/A:1007617005950) | - | - |
 
 ---
