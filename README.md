@@ -28,7 +28,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 ---
 
 ### Job Recommendation Surveys
-| # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|分析链接  |
+| # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	| 分析链接  |
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 7 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - | - |
 | 8 	| A survey on large language models for recommendation 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| WWW 	| [Survey](8_Survey.md) | [DOI](https://doi.org/10.1007/s11280-024-01291-2) | [LLM4Rec](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | - |
