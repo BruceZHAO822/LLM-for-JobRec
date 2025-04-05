@@ -34,6 +34,18 @@ LLM和职位推荐（Job Recommendation）相关的论文
 | 9 	| A Survey on Skill Identification From Online Job Ads 	| IMANE KHAOUJA et al. 	| ENSIAS, Mohammed V University 	| 2021 	| IEEE Access 	| [Survey](9_Survey.md) | [DOI](https://ieeexplore.ieee.org/document/9517309) | - |
  
 ---
+
+### Recommendation Technology
+| # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
+|:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+| 10 	| Content-based Recommender Systems: State of the Art and Trends 	| Lops et al. 	| University of Bari “Aldo Moro” 	| 2011 	| Recommender Systems Handbook (Book) 	| [Content-based](10_Content-based.md) | [DOI](https://doi.org/10.1007/978-0-387-85820-3_3) | - |
+| 11 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
+| 12 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
+| 13 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
+| 14 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
+
+---
+
 ### Classification of papers
 ![Showcase](Classification-of-papers.png)
 
