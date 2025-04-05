@@ -40,7 +40,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	|
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 10 	| Content-based Recommender Systems: State of the Art and Trends 	| Lops et al. 	| University of Bari “Aldo Moro” 	| 2011 	| Recommender Systems Handbook (Book) 	| [Content-based](10_Content-based.md) | [DOI](https://doi.org/10.1007/978-0-387-85820-3_3) | - |
-| 11 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
+| 11 	| Item-based collaborative filtering recommendation algorithms 	| Sarwar et al. 	| University of Minnesota 	| 2001 	| WWW 	| [CF](11_CF.md) | [DOI](https://dl.acm.org/doi/10.1145/371920.372071) | - |
 | 12 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
 | 13 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
 | 14 	| Content-based Recommender Systems: State of the Art and Trends 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - |
