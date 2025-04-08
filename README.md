@@ -30,10 +30,10 @@ LLM和职位推荐（Job Recommendation）相关的论文
 ### Job Recommendation Surveys
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	| 分析链接  |
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| 1 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](7_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - | - |
-| 2 	| A survey on large language models for recommendation 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| WWW 	| [Survey](8_Survey.md) | [DOI](https://doi.org/10.1007/s11280-024-01291-2) | [LLM4Rec](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | - |
-| 3 	| A Survey on Skill Identification From Online Job Ads 	| IMANE KHAOUJA et al. 	| ENSIAS, Mohammed V University 	| 2021 	| IEEE Access 	| [Survey](9_Survey.md) | [DOI](https://ieeexplore.ieee.org/document/9517309) | - | - |
-| 4 	| Graph Neural Networks in Recommender Systems: A Survey 	| Wu et al. 	| Peking University 	| 2022 	| CSUR 	| [Survey](10_Survey.md) | [DOI](https://dl.acm.org/doi/10.1145/3535101) | [Github](https://github.com/wusw14/GNN-in-RS) | [知乎](https://zhuanlan.zhihu.com/p/362853488) |
+| 1 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](Job%20Recommendation%20Surveys/1_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - | - |
+| 2 	| A survey on large language models for recommendation 	| Likang Wu et al. 	| University of Science and Technology of China 	| 2024 	| WWW 	| [Survey](Job%20Recommendation%20Surveys/2_Survey.md) | [DOI](https://doi.org/10.1007/s11280-024-01291-2) | [LLM4Rec](https://github.com/WLiK/LLM4Rec-Awesome-Papers) | - |
+| 3 	| A Survey on Skill Identification From Online Job Ads 	| IMANE KHAOUJA et al. 	| ENSIAS, Mohammed V University 	| 2021 	| IEEE Access 	| [Survey](Job%20Recommendation%20Surveys/3_Survey.md) | [DOI](https://ieeexplore.ieee.org/document/9517309) | - | - |
+| 4 	| Graph Neural Networks in Recommender Systems: A Survey 	| Wu et al. 	| Peking University 	| 2022 	| CSUR 	| [Survey](Job%20Recommendation%20Surveys/4_Survey.md) | [DOI](https://dl.acm.org/doi/10.1145/3535101) | [Github](https://github.com/wusw14/GNN-in-RS) | [知乎](https://zhuanlan.zhihu.com/p/362853488) |
  
 ---
 
