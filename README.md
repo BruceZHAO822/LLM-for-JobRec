@@ -40,11 +40,11 @@ LLM和职位推荐（Job Recommendation）相关的论文
 ### Recommendation Technology
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	| 分析链接  |
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| 1 	| Content-based Recommender Systems: State of the Art and Trends 	| Lops et al. 	| University of Bari “Aldo Moro” 	| 2011 	| Recommender Systems Handbook (Book) 	| [Content-based](11_Content-based.md) | [DOI](https://doi.org/10.1007/978-0-387-85820-3_3) | - | - |
-| 2 	| Item-based collaborative filtering recommendation algorithms 	| Sarwar et al. 	| University of Minnesota 	| 2001 	| WWW 	| [CF](12_CF.md) | [DOI](https://dl.acm.org/doi/10.1145/371920.372071) | - | [CSDN](https://blog.csdn.net/han__xuefeng/article/details/106652266) |
-| 3 	| Matrix Factorization Techniques for Recommender Systems 	| Koren et al. 	| Yahoo Research 	| 2009 	| COMPUTER 	| [MF](13_MF.md) | [DOI](https://ieeexplore.ieee.org/abstract/document/5197422) | - | [知乎](https://zhuanlan.zhihu.com/p/28577447?from_voters_page=true) |
-| 4 	| Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation 	| Xia et al. 	| The University of Queensland 	| 2021 	| AAAI 	| [DHCN](14_DHCN.md) | [DOI](https://ojs.aaai.org/index.php/AAAI/article/view/16578) | [Github](https://github.com/xiaxin1998/DHCN) | [CSDN](https://blog.csdn.net/qq_39087432/article/details/120881848) |
-| 5 	| Unsupervised Learning by Probabilistic Latent Semantic Analysis 	| THOMAS HOFMANN 	| Brown University 	| 2001 	| Machine Learning	| [PLSA](15_PLSA.md) | [DOI](https://doi.org/10.1023/A:1007617005950) | - | - |
+| 1 	| Content-based Recommender Systems: State of the Art and Trends 	| Lops et al. 	| University of Bari “Aldo Moro” 	| 2011 	| Recommender Systems Handbook (Book) 	| [Content-based](Recommendation%20Technology/1_Content-based.md) | [DOI](https://doi.org/10.1007/978-0-387-85820-3_3) | - | - |
+| 2 	| Item-based collaborative filtering recommendation algorithms 	| Sarwar et al. 	| University of Minnesota 	| 2001 	| WWW 	| [CF](Recommendation%20Technology/2_CF.md) | [DOI](https://dl.acm.org/doi/10.1145/371920.372071) | - | [CSDN](https://blog.csdn.net/han__xuefeng/article/details/106652266) |
+| 3 	| Matrix Factorization Techniques for Recommender Systems 	| Koren et al. 	| Yahoo Research 	| 2009 	| COMPUTER 	| [MF](Recommendation%20Technology/3_MF.md) | [DOI](https://ieeexplore.ieee.org/abstract/document/5197422) | - | [知乎](https://zhuanlan.zhihu.com/p/28577447?from_voters_page=true) |
+| 4 	| Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation 	| Xia et al. 	| The University of Queensland 	| 2021 	| AAAI 	| [DHCN](Recommendation%20Technology/4_DHCN.md) | [DOI](https://ojs.aaai.org/index.php/AAAI/article/view/16578) | [Github](https://github.com/xiaxin1998/DHCN) | [CSDN](https://blog.csdn.net/qq_39087432/article/details/120881848) |
+| 5 	| Unsupervised Learning by Probabilistic Latent Semantic Analysis 	| THOMAS HOFMANN 	| Brown University 	| 2001 	| Machine Learning	| [PLSA](Recommendation%20Technology/5_PLSA.md) | [DOI](https://doi.org/10.1023/A:1007617005950) | - | - |
 
 ---
 
