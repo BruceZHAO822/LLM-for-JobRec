@@ -7,6 +7,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 - [LLM for Job Recommendation](#llm-for-job-recommendation)
 - [Job Recommendation Surveys](#job-recommendation-surveys)
 - [Recommendation Technology](#recommendation-technology)
+- [LLM Technology](#llm-technology)
 - [Classification of papers](#classification-of-papers)
 
 ---
@@ -45,6 +46,14 @@ LLM和职位推荐（Job Recommendation）相关的论文
 | 3 	| Matrix Factorization Techniques for Recommender Systems 	| Koren et al. 	| Yahoo Research 	| 2009 	| COMPUTER 	| [MF](Recommendation%20Technology/3_MF.md) | [DOI](https://ieeexplore.ieee.org/abstract/document/5197422) | - | [知乎](https://zhuanlan.zhihu.com/p/28577447?from_voters_page=true) |
 | 4 	| Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation 	| Xia et al. 	| The University of Queensland 	| 2021 	| AAAI 	| [DHCN](Recommendation%20Technology/4_DHCN.md) | [DOI](https://ojs.aaai.org/index.php/AAAI/article/view/16578) | [Github](https://github.com/xiaxin1998/DHCN) | [CSDN](https://blog.csdn.net/qq_39087432/article/details/120881848) |
 | 5 	| Unsupervised Learning by Probabilistic Latent Semantic Analysis 	| THOMAS HOFMANN 	| Brown University 	| 2001 	| Machine Learning	| [PLSA](Recommendation%20Technology/5_PLSA.md) | [DOI](https://doi.org/10.1023/A:1007617005950) | - | - |
+
+---
+
+### LLM Technology
+| # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	| 分析链接  |
+|:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+
+
 
 ---
 
