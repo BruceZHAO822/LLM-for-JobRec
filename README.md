@@ -52,7 +52,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 ### LLM Technology
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	| 分析链接  |
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| 1 	| BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation 	| Chen et al. 	| BAAI | 2024 	| ACL | [BGE-M3](LLM%20Technology/1_BGE-M3.md) | [DOI](10.18653/v1/2024.findings-acl.137) | [Github](https://github.com/FlagOpen/FlagEmbedding) | [知乎](https://zhuanlan.zhihu.com/p/1393866720) |
+| 1 	| BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation 	| Chen et al. 	| BAAI | 2024 	| ACL | [BGE-M3](LLM%20Technology/1_BGE-M3.md) | [DOI](https://aclanthology.org/2024.findings-acl.137/) | [Github](https://github.com/FlagOpen/FlagEmbedding) | [知乎](https://zhuanlan.zhihu.com/p/1393866720) |
 
 ---
 
