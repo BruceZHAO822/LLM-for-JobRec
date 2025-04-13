@@ -5,7 +5,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 ## Index
 - [BSAELINE——Session-based Framework: BISTRO](#baseline-session-based-framework-bistro)
 - [LLM for Job Recommendation](#llm-for-job-recommendation)
-- [Job Recommendation Surveys](#job-recommendation-surveys)
+- [Recommendation Surveys](#recommendation-surveys)
 - [Recommendation Technology](#recommendation-technology)
 - [LLM Technology](#llm-technology)
 - [Classification of papers](#classification-of-papers)
@@ -28,7 +28,7 @@ LLM和职位推荐（Job Recommendation）相关的论文
 
 ---
 
-### Job Recommendation Surveys
+### Recommendation Surveys
 | # 	| 论文标题 	| 作者 	| 单位 	| 年份 	| 会议/期刊 	| 论文内容 	| 论文链接 	| 代码 	| 分析链接  |
 |:---:	|---	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | 1 	| A Survey of Recommendation Systems: Recommendation Models, Techniques, and Application Fields 	| Hyeyoung Ko et al. 	| Seoul Women’s University 	| 2022 	| Electronics 	| [Survey](Job%20Recommendation%20Surveys/1_Survey.md) | [DOI](https://doi.org/10.3390/electronics11010141) | - | - |
